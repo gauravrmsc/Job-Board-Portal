@@ -33,13 +33,11 @@ You should see the application home page in your browser.
 2. Search for a job: [http://localhost:8082/post-job.html](http://localhost:8082/post-job.html)
 
 ## Application Structure
-####1. Java Files
+1. Java Files
 src -> main -> java
-####2. Test Files
+2. Test Files
 src -> test -> java
-####3. Properties File
+3. Properties File
 src -> main -> resources -> application.properties
-####4. Html Filessrc -> main -> resources -> application.properties
-
-
+4. Html Files
 src -> main -> resources -> static
